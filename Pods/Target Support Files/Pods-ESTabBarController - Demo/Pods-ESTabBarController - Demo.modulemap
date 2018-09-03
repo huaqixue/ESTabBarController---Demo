@@ -1,0 +1,6 @@
+module Pods_ESTabBarController___Demo {
+  umbrella header "Pods-ESTabBarController - Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
